@@ -61,6 +61,7 @@
 @layer base {
   * {
     @apply border-border;
+    font-family: 'DM Sans', sans-serif
   }
   body {
     @apply bg-background text-foreground;
